@@ -1,3 +1,1 @@
-Scraped 400+ records using Python and BeautifulSoup.
-Performed data cleaning, EDA, and visualization.
-Generated insights on pricing and rating trends and exported results to Excel.
+Developed an HR Analytics solution in Power BI by transforming employee data with Power Query, creating DAX-based KPIs for attrition and workforce analysis, and designing interactive dashboards for HR insights.
